@@ -1,0 +1,84 @@
+***********************************************
+*               _   _   _   _                 *
+*              / \ / \ / \ / \                *
+*             ( M | E | T | A )               *
+*              \_/ \_/ \_/ \_/                *
+*                                             *
+*    Telegram: https://t.me/metastealer_bot   *
+***********************************************
+
+URL: https://www.roblox.com/games/
+Username: denise@kweykway.ca
+Password: Maxyboi09
+Application: Microsoft_[Edge]_Default
+===============
+URL: https://my.malwarebytes.com/en/login
+Username: piggot
+Password: Disneynut70!
+Application: Microsoft_[Edge]_Default
+===============
+URL: https://www.amazon.com/ap/signin
+Username: denise@kweykway.ca
+Password: Disneynut70!
+Application: Microsoft_[Edge]_Default
+===============
+URL: https://www.amazon.com/ap/signin
+Username: mpiggot09@icloud.com
+Password: Disneynut70
+Application: Microsoft_[Edge]_Default
+===============
+URL: https://account.live.com/proofs/MarkLost
+Username: mpiggot09@icloud.com
+Password: gratness200
+Application: Microsoft_[Edge]_Default
+===============
+URL: https://login.live.com/oauth20_authorize.srf
+Username: mpiggot09@icloud.com
+Password: gratness200
+Application: Microsoft_[Edge]_Default
+===============
+URL: https://www.roblox.com/
+Username: unicornpoo2013bigbee
+Password: blackman200
+Application: Microsoft_[Edge]_Default
+===============
+URL: https://sidequestvr.com/login
+Username: denise@kweykway.ca
+Password: Disneynut70
+Application: Microsoft_[Edge]_Default
+===============
+URL: https://www.amazon.ca/ap/forgotpassword
+Username: UNKNOWN
+Password: Disneynut70
+Application: Microsoft_[Edge]_Default
+===============
+URL: https://login.live.com/oauth20_authorize.srf
+Username: denise@kweykway.ca
+Password: Disneynut70
+Application: Microsoft_[Edge]_Default
+===============
+URL: https://login.live.com/login.srf
+Username: maxpiggot@outlook.com
+Password: gratness200
+Application: Microsoft_[Edge]_Default
+===============
+URL: https://auth.sellix.io/register
+Username: oxqstore1
+Password: 1YOURLARPINGONMYDICKANDBEAMEDMELOL
+Application: Microsoft_[Edge]_Default
+===============
+URL: https://www.epicgames.com/account/password
+Username: UNKNOWN
+Password: asdgaads34
+Application: Microsoft_[Edge]_Default
+===============
+URL: https://www.minecraft.net/en-us/login
+Username: denise@kweykway.ca
+Password: Disneynut70
+Application: Microsoft_[Edge]_Default
+===============
+URL: https://my.minecraft.net/en-us/store/minecraft/
+Username: denise@kweykway.ca
+Password: Disneynut70
+Application: Microsoft_[Edge]_Default
+===============
